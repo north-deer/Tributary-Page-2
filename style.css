@@ -1,0 +1,41 @@
+body{
+background-color: #00FA9A;
+margin: 20%;
+}
+h1{
+    font-size: 7vh;
+}
+#image{
+    width: 100%;
+    display: inline-block;
+}
+small{
+    font-size: 17px;
+    display: inline-block;
+    font-family: 'Gill Sans';
+}
+#heading1{
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+}
+#heading2{
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+    color: white;
+    font-size: 35px;
+}
+#a1{
+    color: #000000;
+    text-decoration: none;
+}
+div#tribute-data {
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #98FB98;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+#small{
+    font-size: 14px;
+}
